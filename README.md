@@ -1,5 +1,5 @@
 ![ChanTsune's github stats](https://github-readme-stats.vercel.app/api?username=ChanTsune&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanTsune&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanTsune&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!--
 **ChanTsune/ChanTsune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
